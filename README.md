@@ -19,5 +19,16 @@ One-off management system is a distributed application,it can be used in any ins
 
 
 # structure of project
-![Structured Diagram](https://user-images.githubusercontent.com/62935631/132588887-1a8f3539-14c6-4e7b-8e17-9f343678e2d8.png)
+![Structured Diagram](https://user-images.githubusercontent.com/62935631/132588887-1a8f3539-14c6-4e7b-8e17-9f343678e2d8.png)  
+
+
+# Features
+1.Time-saving Technology  
+2.Improved Efficiency by avoiding human errors  
+3.Reduces scope for Error  
+4.Data security and correct data retrieval made possible  
+5.Cost effective and easily manageable  
+6.Easy access to employee data with correct employee history  
+7.Improved maintaining employeeninformation made possible  
+8.Reduces the work of documentation  
 
